@@ -75,7 +75,7 @@ You have 2 to-do item(s).
 
 ## How do I build this?
 
-Start off by trying this without any hints. If you find yourself stuck, check out the `hints.md` file.
+Start off by trying this without any hints. If you find yourself stuck, check out the `HINTS.md` file.
 
 ## Stretch Goals
 
