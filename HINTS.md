@@ -59,3 +59,7 @@ for (let i = 0; i < todos.length; i++) {
   const isComplete = areTodosComplete[i];
 }
 ```
+
+## Phase 5: Finishing up
+
+At this point, there will still be a few things left to do from the "requirements" section of the README like displaying the number of to-do items and displaying a message if there are no to-do items. We'll leave these tasks up to you! You can do it!
