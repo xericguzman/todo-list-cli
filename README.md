@@ -1,4 +1,4 @@
-# To-Do List (command line interface)
+# The To-Do List App (command line interface)
 
 In this project we'll be building a command line program that lets the user maintain and edit a list of to-do items!
 
