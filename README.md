@@ -16,6 +16,8 @@ In this project we'll be building a command line program that lets the user main
 
 Below is an example of what your application might look like. You're welcome to take creativity liberties with the exact user interface!
 
+---
+
 ```
 Welcome to the To-Do List Manager Application! 
 
@@ -72,6 +74,8 @@ You have 2 to-do item(s).
 [2] Complete a to-do item
 >
 ```
+
+---
 
 ## How do I build this?
 
